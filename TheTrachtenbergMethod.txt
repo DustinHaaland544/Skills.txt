@@ -1,0 +1,31 @@
+The Trachtenberg Method is a system of rapid mental arithmetic developed by Jakow Trachtenberg. Here's how to master it:
+Understand the Foundation
+The system replaces traditional multiplication and division with simpler, pattern-based operations using only addition and small number manipulation. The key insight is that you work digit by digit using specific rules for each multiplier.
+Learn the Core Rules (by multiplier)
+Each number has its own rule. Start with the easiest:
+Multiply by 11: Add each digit to its right neighbor, carrying as needed. The last digit stays the same.
+Multiply by 12: Double each digit, then add its right neighbor.
+Multiply by 5: Half the next digit (use 5 if it's odd), and add 5 if the current digit is odd.
+Multiply by 9: Subtract the rightmost digit from 10, then subtract each other digit from 9 and add the left neighbor.
+Multiply by 6, 7, 8: Similar neighbor-based rules with varying combinations of doubling and adding neighbors.
+Suggested Learning Order
+Start simple and build up: 11 → 12 → 6 → 7 → 5 → 8 → 9 → then 3 and 4, which are slightly more complex.
+Practice Strategy
+
+Drill one rule at a time until it feels automatic before moving on. Don't rush.
+Practice with random 4–6 digit numbers so you can't rely on memorization.
+Time yourself and try to improve speed gradually.
+Do short daily sessions (15–20 minutes) rather than marathon sessions — consistency beats intensity.
+
+Learn the Two-Digit Multiplier System
+Once you're comfortable with single-digit rules, move to multiplying by any two-digit number. This uses a system of "inner products" — multiplying pairs of digits diagonally — which is Trachtenberg's most powerful and generalizable technique.
+Use the Right Resources
+The best primary source is the original book The Trachtenberg Speed System of Basic Mathematics by Jakow Trachtenberg and Ann Cutler. It walks through each rule with exercises. There are also good YouTube tutorials that show the visual process step by step.
+Key Habits for Mastery
+
+Always work right to left (like traditional arithmetic).
+Get comfortable carrying numbers mentally.
+Verbalize the steps at first ("double the digit, add the neighbor…"), then internalize them.
+Apply it in real life — restaurant bills, shopping totals, etc. — to reinforce the habit.
+
+Expect to spend a few weeks on individual rules and a few months to reach true fluency across the full system. The payoff is impressive mental math speed without a calculator.
